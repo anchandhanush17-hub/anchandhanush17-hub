@@ -36,7 +36,7 @@ I enjoy transforming raw data into meaningful insights using Excel, SQL, Power B
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: [(https://www.linkedin.com/in/dhanush-anchan-841521269/)]
 - Email: [Add your email address]
 
 ---
